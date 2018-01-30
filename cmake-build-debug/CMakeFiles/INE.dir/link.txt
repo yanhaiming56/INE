@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/INE.dir/main.cpp.o CMakeFiles/INE.dir/src/ClassType.cpp.o CMakeFiles/INE.dir/src/BeautyCode.cpp.o CMakeFiles/INE.dir/src/INE.cpp.o  -o INE 
